@@ -1,0 +1,342 @@
+html {
+    position: relative;
+    width: 1600px;
+    height: 1200px;
+    background: #b1e6d3;
+}
+.big form {
+    position: absolute;
+    width: 1064.38px;
+    height: 756.89px;
+    left: 400px;
+    top: 234px;
+
+    background: #ebfcf4;
+    
+}
+.small form {
+    position: absolute;
+    width: 532px;
+    height: 754px;
+    left: 932px;
+    top: 237px;
+
+    background: #ffffff;
+    border-radius: 51.74px 0px 0px 51.74px;
+}
+.small form h1 {
+    position: absolute;
+    width: 111.61px;
+    height: 56.91px;
+    left: 137.97px;
+    top: 47px;
+
+    font-family: "Athiti";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35.4792px;
+    line-height: 57px;
+    /* identical to box height */
+
+    color: #0b4654;
+}
+.logo {
+    /* Vector */
+
+    position: absolute;
+    left: 6.57%;
+    right: 79.35%;
+    top: 7.84%;
+    bottom: 85.24%;
+}
+.small form h2 {
+    position: absolute;
+    width: 200.31px;
+    height: 47.31px;
+    left: 101.26px;
+    top: 168.53px;
+
+    font-family: "Athiti";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 29.566px;
+    line-height: 47px;
+    /* identical to box height */
+
+    color: #0b4654;
+}
+.data {
+    position: absolute;
+    width: 328.92px;
+    height: 41.39px;
+    left: 101.26px;
+    top: 260.09px;
+    border: 1.4783px solid rgba(152, 166, 168, 0.25);
+    box-sizing: border-box;
+    border-radius: 5.91319px;
+}
+
+.bdata {
+    position: absolute;
+    width: 328.92px;
+    height: 41.39px;
+    left: 101.26px;
+    top: 320.09px;
+    border: 1.4783px solid rgba(152, 166, 168, 0.25);
+    box-sizing: border-box;
+    border-radius: 5.91319px;
+}
+.cdata {
+    position: absolute;
+    width: 328.92px;
+    height: 41.39px;
+    left: 101.26px;
+    top: 380.09px;
+    border: 1.4783px solid rgba(152, 166, 168, 0.25);
+    box-sizing: border-box;
+    border-radius: 5.91319px;
+}
+.small form label {
+    position: absolute;
+    width: 180.53px;
+    height: 19.22px;
+    left: 129.35px;
+    top: 425.05px;
+
+    font-family: "Athiti";
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 11.8264px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.sing {
+    position: absolute;
+    width: 328.92px;
+    height: 41.39px;
+    left: 101.26px;
+    top: 500.45px;
+    background: #07b464;
+    box-shadow: 0px 2.9566px 4.9566px rgba(173, 163, 163, 0.25),
+        inset 0px 1.4783px 4.9566px rgba(255, 255, 255, 0.25),
+        inset 0px -1.4783px 4.9566px rgba(171, 154, 154, 0.25);
+    border-radius: 11.8264px;
+}
+.google {
+    position: absolute;
+    width: 328.92px;
+    height: 41.39px;
+    left: 101.26px;
+    top: 550.58px;
+    background-color: #ffffff;
+    border: 1.4783px solid rgba(11, 70, 84, 0.25);
+    box-sizing: border-box;
+    border-radius: 11.8264px;
+    color
+
+    font-family: "Athiti";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11.8264px;
+    line-height: 19px;
+}
+.facebook{
+    position: absolute;
+    width: 328.92px;
+    height: 41.39px;
+    left: 101px;
+    top: 600.58px;
+    
+    border: 1.4783px solid rgba(11, 70, 84, 0.25);
+    box-sizing: border-box;
+    border-radius: 11.8264px;
+    font-family: "Athiti";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11.8264px;
+    line-height: 19px;
+    background-color: #ffffff;
+    }
+.capshen{
+
+    position: absolute;
+    width: 245.4px;
+    height: 28.09px;
+    left: 143.39px;
+    top: 639.54px;
+    
+    font-family: 'Athiti';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17.7396px;
+    line-height: 28px;
+    
+    
+    
+    color: rgba(0, 0, 0, 0.5);
+    }
+   .about{
+      
+position: absolute;
+left: 9.58%;
+right: 82.99%;
+top: 6.08%;
+bottom: 89.56%;
+
+font-family: 'Athiti';
+font-style: normal;
+font-weight: 500;
+font-size: 20.6962px;
+line-height: 33px;
+
+color: #0B4654;
+
+   }
+   .contact{
+    position: absolute;
+    left: 21.11%;
+    right: 72.43%;
+    top: 6.05%;
+    bottom: 89.55%;
+    
+    font-family: 'Athiti';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20.6962px;
+    line-height: 33px;
+    
+    
+    
+    color: #0B4654;
+    }
+    .starone{
+        position: absolute;
+        left: 6.74%;
+        right: 90.5%;
+        top: 30.08%;
+        bottom: 63.32%;
+        
+        
+        transform: matrix(-1, 0, 0, 1, 0, 0);}
+        .starto{
+            position: absolute;
+            left: 15.9%;
+            right: 82.15%;
+            top: 35.55%;
+            bottom: 59.77%;
+            
+            
+            transform: matrix(-1, 0, 0, 1, 0, 0);}
+            .startree{
+                position: absolute;
+                left: 15.54%;
+                right: 83.1%;
+                top: 53.4%;
+                bottom: 43.36%;
+                
+               
+                transform: matrix(-1, 0, 0, 1, 0, 0);}
+                .starfor{
+                    position: absolute;
+                    left: 48.89%;
+                    right: 49.44%;
+                    top: 33.3%;
+                    bottom: 62.7%;
+                    
+            
+                    transform: matrix(-1, 0, 0, 1, 0, 0);}
+                    .head{
+                        position: absolute;
+                        left: 20.12%;
+                        right: 75.32%;
+                        top: 24.18%;
+                        bottom: 69.73%;
+                        
+                        ;}
+                        .feac{
+
+                            position: absolute;
+                            left: 20.34%;
+                            right: 74.86%;
+                            top: 24.5%;
+                            bottom: 63.79%;
+                            }
+                            .shert{
+                                position: absolute;
+                                left: 17.61%;
+                                right: 73.72%;
+                                top: 32.95%;
+                                bottom: 48.64%;
+                                }
+                                .doktorshert{
+
+                                    position: absolute;
+                                    left: 10.01%;
+                                    right: 74.8%;
+                                    top: 32.68%;
+                                    bottom: 31.07%;}
+                                    .yaqe{
+                                        position: absolute;
+                                        left: 19.88%;
+                                        right: 76.96%;
+                                        top: 32.84%;
+                                        bottom: 54.97%;
+                                        }
+                                        .dokme{
+                                            position: absolute;
+                                            left: 21.83%;
+                                            right: 76.58%;
+                                            top: 46.15%;
+                                            bottom: 45.19%;
+                                            }
+                                            .hand{
+                                                position: absolute;
+                                                left: 21.89%;
+                                                right: 67.6%;
+                                                top: 33.01%;
+                                                bottom: 48.62%;
+                                                }
+                                                .handtoo{
+                                                    
+                                                   position: absolute;
+                                                    left: 6.7%;
+                                                    right: 64.44%;
+                                                    top: 45.41%;
+                                                    bottom: 40.78%;
+                                                    }
+                                                    .footer{
+                                                        position: absolute;
+                                                        left: 10.42%;
+                                                        right: 72.01%;
+                                                        top: 53.85%;
+                                                        bottom: 22.57%;
+                                                        }
+                                                        .runrust{
+                                                            position: absolute;
+                                                            left: 17.72%;
+                                                            right: 65.68%;
+                                                            top: 49.52%;
+                                                            bottom: 37.02%;}
+                                                            .runchap{
+                                                                position: absolute;
+                                                                left: 22.85%;
+                                                                right: 63.02%;
+                                                                top: 49.52%;
+                                                                bottom: 28.24%;
+                                                                }
+                                                                .leg{
+                                                                    position: absolute;
+                                                                    left: 18.42%;
+                                                                    right: 62.81%;
+                                                                    top: 54.68%;
+                                                                    bottom: 24.39%;
+                                                                    }
+                                                                    .shooz{
+                                                                        position: absolute;
+                                                                        left: 34.94%;
+                                                                        right: 58.44%;
+                                                                        top: 73.79%;
+                                                                        bottom: 22.89%;
+                                                                        }
+
+                                                    
