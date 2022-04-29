@@ -298,9 +298,26 @@
                 </div>
                 <h1>Bloopy</h1>
 
-                <input class="data" type="name" placeholder="Full name" />
-                <input class="bdata" type="text" placeholder="Email address" />
-                <input class="cdata" type="password" placeholder="Password" />
+                <input
+                    class="data"
+                    type="name"
+                    placeholder="Full name"
+                    required
+                />
+                <input
+                    class="bdata"
+                    type="email"
+                    name="email"
+                    placeholder="Email address"
+                    required
+                />
+                <input
+                    class="cdata"
+                    type="password"
+                    placeholder="Password"
+                    autocomplete="current-password"
+                    required
+                />
                 <label
                     ><input type="checkbox" /> i agree whith terms and privacy
                 </label>
